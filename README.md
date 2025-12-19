@@ -1,7 +1,3 @@
-# odin-recipes
-
-HTML fundamentals – practice project based on The Odin Project curriculum.
-
 # Odin Recipes
 
 A simple recipe website built as part of The Odin Project curriculum.
